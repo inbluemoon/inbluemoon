@@ -24,7 +24,7 @@
       <img width="18" height="18" src="https://raw.githubusercontent.com/inbluemoon/inbluemoon/main/assets/images/mail.svg?sanitize=true" />
     </a>
   </p>
-  <p>Hi, I'm inbluemoon, Fullstack developer from Shanghai, China.</p>
+  <p>无人之境，笑语含混不清。 天地倒置，伞是满天的云。</p>
   <p>
     <a href="https://inbluemoon.com/">
       <img src="https://github-readme-stats.vercel.app/api?username=inbluemoon&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
